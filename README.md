@@ -54,8 +54,40 @@ The sales data is read from a CSV file, multiple queries are performed using cor
 
 ---
 
-## How to Run the Project
+## How to Access and Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Python-Sales-Data-Analysis.git
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/your-username/Python-Sales-Data-Analysis.git
+```
+
+### Step 2: Navigate to the Project Directory
+```bash
+cd Python-Sales-Data-Analysis
+```
+
+### Step 3: Open Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+### Step 4: Run the Project
+Open and run the following file:
+```bash
+salesAnalyser.ipynb
+```
+
+Navigation Guide
+
+salesAnalyser.ipynb
+Main notebook containing all analysis logic and queries
+
+sales_data.csv
+Input file containing raw sales data
+
+electronics.csv
+Output file generated after filtering Electronics category data
+
+README.md
+Project documentation and usage guide
+
